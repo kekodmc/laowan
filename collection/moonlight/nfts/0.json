@@ -1,0 +1,6 @@
+{
+  "name": "Moonlight Treasure Box",
+  "image": "https://raw.githubusercontent.com/kekodmc/laowan/main/collection/moonlight/nfts/nft0.png",
+  "description": "Moonlight Treasure Box,月光宝盒",
+  "attributes": [{ "trait_type": "Type", "value": "moon" }]
+}
